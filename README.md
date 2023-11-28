@@ -14,10 +14,10 @@ Although the sample data set is quite small Big O time and space complexity anal
 
 |  |  |
 |--|--|
-| $`\O(1)`$ | Constant Time  |
-| $`\O(n)`$ | Linear Time |
-| $`\O(n^2)`$  | Quadratic Time |
-| $`\O(log n)`$  | Logarithmic Time |
+|$`\O(1)`$ | Constant Time  |
+|$`\O(n)`$ | Linear Time |
+|$`\O(n^2)`$  | Quadratic Time |
+|$`\O(log n)`$  | Logarithmic Time |
 
 
 
