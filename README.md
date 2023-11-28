@@ -13,7 +13,7 @@ Although the sample data set is quite small Big O time and space complexity anal
 
 |  |  |  |
 |--|--|--|
-|$O(1)$  |Constant Time  |  |
+|$O(1)$  |Constant Time  | Constant time is a category of function or algorithm where time time / space complexity are constant. They do not grow as a function of the input or operands.  |
 |$O(n)$  |Linear Time  |  |
 |$O(n^2)$  |Quadratic Time  |  |
 |$O(log n)$  |Logarithmic Time  |  |
