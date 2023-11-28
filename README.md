@@ -11,10 +11,11 @@ analysis to determine how efficient each data structure was in relation to space
 
 Although the sample data set is quite small Big O time and space complexity analysis allows us to examine how that algorithm scales over time and memory space as the input (Courses) size grows.
 
-$O(1)$ - Constant Tine
-$O(n)$ - Linear Time
-$O(n^2)$ - Quadratic Time
-$O(log n)$ - Logarithmic Time
+$O(1)$ - Constant Tine<br>
+$O(n)$ - Linear Time<br>
+$O(n^2)$ - Quadratic Time<br>
+$O(log n)$ - Logarithmic Time<br>
+
 
 How did you approach the problem? Consider why data structures are important to understand.
 How did you overcome any roadblocks you encountered while going through the activities or project?
