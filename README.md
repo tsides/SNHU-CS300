@@ -11,7 +11,6 @@ analysis to determine how efficient each data structure was in relation to space
 
 Although the sample data set is quite small Big O time and space complexity analysis allows us to examine how that algorithm scales over time and memory space as the input (Courses) size grows.
 
-|  |  |  |
 |--|--|--|
 |$O(1)$  |Constant Time  | Constant time is a category of function or algorithm where time time / space complexity are constant. They do not grow as a function of the input or operands.  |
 |$O(n)$  |Linear Time  |  |
