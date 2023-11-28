@@ -12,10 +12,10 @@ analysis to determine how efficient each data structure was in relation to space
 Although the sample data set is quite small Big O time and space complexity analysis allows us to examine how that algorithm scales over time and memory space as the input (Courses) size grows.
 
 |--|--|--|
-|$O(1)$  |Constant Time  | Constant time is a category of function or algorithm where time time / space complexity are constant. They do not grow as a function of the input or operands.  |
-|$O(n)$  |Linear Time  |  |
-|$O(n^2)$  |Quadratic Time  |  |
-|$O(log n)$  |Logarithmic Time  |  |
+|$O(1)$  |Constant Time  | Constant time is a category of function or algorithm where time / space complexity are constant. They do not grow as a function of the number of input or operands.  |
+|$O(n)$  |Linear Time  | Linear time represents a function or algorithm where time / space complexity grows in a linear relationship to the number of input or operands. |
+|$O(n^2)$  |Quadratic Time  | Quadratic time represents a function or algorithm where time / space complexity grow as a function of the sqare of the number of inputs or operands. |
+|$O(log n)$  |Logarithmic Time  | Logarithmic time represents a function or algorthim where the size of the input is divided in half as the function or algorithm runs. |
 
 How did you approach the problem? Consider why data structures are important to understand.
 How did you overcome any roadblocks you encountered while going through the activities or project?
