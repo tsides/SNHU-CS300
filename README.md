@@ -17,6 +17,10 @@ Although the sample data set is quite small Big O time and space complexity anal
 |$O(n^2)$  |Quadratic Time|Quadratic time represents a function or algorithm where time / space complexity grow as a function of the sqare of the number of inputs or operands.|
 |$O(log n)$  |Logarithmic Time|Logarithmic time represents a function or algorthim where the size of the input is divided in half as the function or algorithm runs.|
 
+
+The following graph shows each of these categories of Big O analysis.
+![](https://github.com/tsides/SNHU-CS300/blob/main/desmos-graph.png?raw=true)
+
 How did you approach the problem? Consider why data structures are important to understand.
 How did you overcome any roadblocks you encountered while going through the activities or project?
 How has your work on this project expanded your approach to designing software and developing programs?
