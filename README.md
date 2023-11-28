@@ -17,6 +17,9 @@ $`O(n)`$ Linear Time
 $`O(n^2)`$   Quadratic Time
 $`O(log n)`$   Logarithmic Time
 
+$`\O(1)`$
+$`\sqrt{3x-1}+(1+x)^2`$
+$`\sqrt{3x-1}+(1+x)^2`$
 $`\sqrt{3x-1}+(1+x)^2`$
 
 How did you approach the problem? Consider why data structures are important to understand.
