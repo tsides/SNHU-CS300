@@ -16,7 +16,7 @@ Although the sample data set is quite small Big O time and space complexity anal
 $`O(n^2)`$   Quadratic Time
 $`O(log n)`$   Logarithmic Time
 
-$`\O(1)`$ - Constant Tine
+$O(1)$ - Constant Tine
 $`\O(n)`$ - Linear Time
 $`\sqrt{3x-1}+(1+x)^2`$
 $`\sqrt{3x-1}+(1+x)^2`$
