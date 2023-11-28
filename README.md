@@ -18,10 +18,17 @@ Although the sample data set is quite small Big O time and space complexity anal
 |$O(log n)$  |Logarithmic Time|Logarithmic time represents a function or algorthim where the size of the input is divided in half as the function or algorithm runs.|
 
 
-The following graph shows each of these categories of Big O analysis.
+The following graph shows each of these categories of Big O analysis.<br>
 ![](https://github.com/tsides/SNHU-CS300/blob/main/desmos-graph.png?raw=true)
+<br>
+Blue represents quadratic time. Red is Constant Time, Black is logarithmic time, and purple is linear time. Note that logarithmic time will approach constant time as its input size is reduced. The goal of the
+analysis is to find the algorthim and data structure that achieves as close to constant time as possible.
 
-How did you approach the problem? Consider why data structures are important to understand.
-How did you overcome any roadblocks you encountered while going through the activities or project?
-How has your work on this project expanded your approach to designing software and developing programs?
-How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+How did you overcome any roadblocks you encountered while going through the activities or project?<br>
+I did not encounter any problems with this exercise.<br><br>
+
+How has your work on this project expanded your approach to designing software and developing programs?<br>
+I found the Big O analysis process most insightful. I had not used this approach before.<br><br>
+
+How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?<br>
+I don't know that the course has had any impact on this aspect of coding. 
