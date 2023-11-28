@@ -15,6 +15,7 @@ $'\O(1)$ - Constant Time
 $'\O(n)$ - Linear Time
 $'\O(n^2)$ - Quadratic Time
 
+$`\sqrt{3x-1}+(1+x)^2`$
 
 How did you approach the problem? Consider why data structures are important to understand.
 How did you overcome any roadblocks you encountered while going through the activities or project?
